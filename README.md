@@ -34,6 +34,8 @@ with open(sys.argv[1],'r')  as f:
 ```
 
 ### OUTPUT:
+![output](https://github.com/Shaik-sameer-AIML/command-line-arguments-to-count-word/blob/main/L1.JPG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/command-line-arguments-to-count-word/blob/main/L2.JPG?raw=true)
 
 
 
